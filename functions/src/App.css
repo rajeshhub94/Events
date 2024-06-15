@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.tenthform{display: inline-block;background-color: dodgerblue;padding: 25px;justify-content: space-around;}
+.tenthform label{display: inline-block;width: 100px;}
+.tenthform div{margin: 15px;}
+#total{width:300px;}
+span{width: 100px;display:inline-block;}
+#result{font-size: 2rem;}
